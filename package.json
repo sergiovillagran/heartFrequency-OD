@@ -1,0 +1,33 @@
+{
+  "name": "hrod-db",
+  "version": "1.0.0",
+  "description": "MongoDB to storage csc, or gpx files with HR or HF data, and their metadata.",
+  "main": "index.js",
+  "scripts": {
+    "test": "}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiovillagran/heartFrequency-OD.git"
+  },
+  "keywords": [
+    "Open",
+    "Data",
+    "Heart",
+    "Frequency",
+    "HF",
+    "HRV",
+    "Rate",
+    "Variability"
+  ],
+  "author": "Sergio Villagran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiovillagran/heartFrequency-OD/issues"
+  },
+  "homepage": "https://github.com/sergiovillagran/heartFrequency-OD#readme",
+  "dependencies": {
+    "gridfs-stream": "^1.1.1",
+    "mongoose": "^5.0.12"
+  }
+}
